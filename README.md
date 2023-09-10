@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @opurba2004
+- 👋 Hi, I’m Opurba
 - 👀 I’m interested in STEM
-- 🌱 I’m currently learning coding in Python
-- 💞️ I’m looking to collaborate on beginner projects for Cyber Security  
+- 🌱 Knows programming languages such as Python, Java and Javascript 
+- 2nd year Cyber Securty & Digital Forensic student at Kingston University 
 - 📫 How to reach me opurba2004@gmail.com
 
 <!---
